@@ -1,0 +1,51 @@
+2019-09-09 17:13:24,246 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up PivotalSoftware
+2019-09-09 17:13:24,851 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-09 17:13:25,143 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up Spring-Projects
+2019-09-09 17:13:25,436 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up PivotalSoftware1
+2019-09-09 17:13:26,476 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up CloudFoundry1
+2019-09-09 17:13:26,757 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up Spring-Projects1
+2019-09-09 17:13:27,043 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up PivotalSoftware2
+2019-09-09 17:13:27,332 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up CloudFoundry2
+2019-09-09 17:13:27,620 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1]  [getAllUserOnGitHub1] Looking up Spring-Projects2
+2019-09-09 17:13:27,915 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1] Elapsed time: 3669
+2019-09-09 17:13:39,934 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up PivotalSoftware
+2019-09-09 17:13:40,328 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-09 17:13:40,617 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up Spring-Projects
+2019-09-09 17:13:40,900 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up PivotalSoftware1
+2019-09-09 17:13:41,194 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up CloudFoundry1
+2019-09-09 17:13:41,487 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up Spring-Projects1
+2019-09-09 17:13:41,780 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up PivotalSoftware2
+2019-09-09 17:13:42,771 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up CloudFoundry2
+2019-09-09 17:13:43,067 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3]  [getAllUserOnGitHub1] Looking up Spring-Projects2
+2019-09-09 17:13:44,065 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-3] Elapsed time: 4131
+2019-09-09 17:14:01,490 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-09 17:14:01,860 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub2] Looking up CloudFoundry
+2019-09-09 17:14:02,151 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-09 17:14:02,439 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub2] Looking up PivotalSoftware1
+2019-09-09 17:14:02,723 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub1] Looking up PivotalSoftware1
+2019-09-09 17:14:03,090 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub2] Looking up PivotalSoftware1
+2019-09-09 17:14:03,376 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub1] Looking up CloudFoundry2
+2019-09-09 17:14:03,665 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub2] Looking up CloudFoundry2
+2019-09-09 17:14:03,963 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4]  [getAllUserOnGitHub2] Looking up CloudFoundry2
+2019-09-09 17:14:04,255 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-4] Elapsed time: 2765
+2019-09-09 17:14:04,258 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-4] Elapsed time: 2801
+2019-09-09 17:14:30,524 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-2]  [getAllUserOnGitHub] Looking up CloudFoundry
+2019-09-09 17:14:30,527 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-1]  [getAllUserOnGitHub] Looking up PivotalSoftware
+2019-09-09 17:14:30,905 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-2]  [getAllUserOnGitHub] Looking up Spring-Projects
+2019-09-09 17:14:30,925 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-1]  [getAllUserOnGitHub] Looking up PivotalSoftware1
+2019-09-09 17:14:31,195 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-2]  [getAllUserOnGitHub] Looking up CloudFoundry1
+2019-09-09 17:14:31,212 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-1]  [getAllUserOnGitHub] Looking up Spring-Projects1
+2019-09-09 17:14:31,491 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-2]  [getAllUserOnGitHub] Looking up PivotalSoftware2
+2019-09-09 17:14:31,502 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-1]  [getAllUserOnGitHub] Looking up CloudFoundry2
+2019-09-09 17:14:31,791 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [GithubLookup-1]  [getAllUserOnGitHub] Looking up Spring-Projects2
+2019-09-09 17:14:32,093 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-5] Elapsed time: 1579
+2019-09-09 17:14:32,096 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up PivotalSoftware
+2019-09-09 17:14:32,425 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up CloudFoundry
+2019-09-09 17:14:32,744 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up Spring-Projects
+2019-09-09 17:14:33,049 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up PivotalSoftware1
+2019-09-09 17:14:33,351 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up CloudFoundry1
+2019-09-09 17:14:33,649 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up Spring-Projects1
+2019-09-09 17:14:33,945 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up PivotalSoftware2
+2019-09-09 17:14:34,251 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up CloudFoundry2
+2019-09-09 17:14:34,538 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHubNonAsync] Looking up Spring-Projects2
+2019-09-09 17:14:34,845 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-5] Elapsed time: 2751

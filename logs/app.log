@@ -1,0 +1,25 @@
+2019-09-10 08:37:25,176 INFO tai.example.demo.DemoApplication [restartedMain] Starting DemoApplication on DESKTOP-3RLBDJC with PID 7824 (C:\Users\User\Documents\Work\demoSpring\demoJavaSpring\target\classes started by User in C:\Users\User\Documents\Work\demoSpring\demoJavaSpring)
+2019-09-10 08:37:25,274 DEBUG tai.example.demo.DemoApplication [restartedMain] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-10 08:37:25,275 INFO tai.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-09-10 08:37:37,757 INFO tai.example.demo.DemoApplication [restartedMain] Started DemoApplication in 14.619 seconds (JVM running for 18.349)
+2019-09-10 08:38:05,397 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [Async-3]  [getAllUserOnGitHub] Looking up Spring-Projects
+2019-09-10 08:38:05,397 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [Async-1]  [getAllUserOnGitHub] Looking up PivotalSoftware
+2019-09-10 08:38:05,397 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [Async-2]  [getAllUserOnGitHub] Looking up CloudFoundry
+2019-09-10 08:38:06,770 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1] Elapsed time: 2096
+2019-09-10 08:38:07,072 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-1]  [getAllUserOnGitHubNonAsync] Looking up PivotalSoftware
+2019-09-10 08:38:08,549 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-1]  [getAllUserOnGitHubNonAsync] Looking up CloudFoundry
+2019-09-10 08:38:09,851 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-1]  [getAllUserOnGitHubNonAsync] Looking up Spring-Projects
+2019-09-10 08:38:14,167 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-1] Elapsed time: 7397
+2019-09-10 08:40:01,353 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-10 08:40:02,910 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHub2] Looking up CloudFoundry
+2019-09-10 08:40:04,252 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-10 08:40:06,990 INFO tai.example.demo.services.Impl.ServiceUserServiceImpl [http-nio-8090-exec-5] Elapsed time: 6024
+2019-09-10 08:40:06,995 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-5] Elapsed time: 6031
+2019-09-10 08:40:39,733 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-6]  [getAllUserOnGitHub1] Looking up PivotalSoftware
+2019-09-10 08:40:41,032 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-6]  [getAllUserOnGitHub1] Looking up CloudFoundry
+2019-09-10 08:40:42,325 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-6]  [getAllUserOnGitHub1] Looking up Spring-Projects
+2019-09-10 08:40:45,201 INFO tai.example.demo.controller.UserController [http-nio-8090-exec-6] Elapsed time: 5881
+2019-09-10 10:47:01,690 INFO tai.example.demo.DemoApplication [restartedMain] Starting DemoApplication on DESKTOP-3RLBDJC with PID 4636 (C:\Users\User\Documents\Work\demoSpring\demoJavaSpring\target\classes started by User in C:\Users\User\Documents\Work\demoSpring\demoJavaSpring)
+2019-09-10 10:47:01,693 DEBUG tai.example.demo.DemoApplication [restartedMain] Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-10 10:47:01,694 INFO tai.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-09-10 10:47:11,453 INFO tai.example.demo.DemoApplication [restartedMain] Started DemoApplication in 10.959 seconds (JVM running for 13.756)
